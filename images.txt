@@ -1,1 +1,1 @@
-honmashironeko/arl-docker-all
+rancher/rancher:v2.10.2
